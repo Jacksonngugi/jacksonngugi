@@ -6,7 +6,7 @@ I'm self-driven, result-oriented software developer committed to build a success
 
 Skills: Backend software development, python, javascript, java, machine learning, data manipulation, data visualization, deeplearning
 
-- 🔭 I’m currently working on this page. 
+
 - 🌱 I’m currently learning Android development, nodejs 
 
 
