@@ -1,10 +1,8 @@
 ### Hi there 👋, my name is Ngugi
-#### Backend software development
-![Backend software development](https://github.com/Jacksonngugi/jacksonngugi/blob/main/github.jpg)
+#### Backend software developer
 
 I'm self-driven, result-oriented software developer committed to build a successful career in software engineering.
 
-Skills: Backend software development, python, javascript, java, machine learning, data manipulation, data visualization, deeplearning
 
 
 - 🌱 I’m currently learning Android development, nodejs 
